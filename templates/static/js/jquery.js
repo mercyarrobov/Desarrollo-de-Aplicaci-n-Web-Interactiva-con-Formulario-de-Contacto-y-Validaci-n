@@ -66,6 +66,7 @@ $(function () {
                 required: "Ingrese el mensaje que desea enviar"
             }
         },
+        /*Acciona al dar clic en el button submit*/
         submitHandler: function (form) {
             form.submit();
         }
