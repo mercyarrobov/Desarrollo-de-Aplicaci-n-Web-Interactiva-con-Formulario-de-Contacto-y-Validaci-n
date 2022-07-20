@@ -68,6 +68,7 @@ $(function () {
         },
         /*Acciona al dar clic en el button submit*/
         submitHandler: function (form) {
+            /*Submit al formulario */
             form.submit();
         }
     });
